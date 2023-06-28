@@ -12,6 +12,7 @@ This project provides a way to use Oblivious HTTP in iOS client applications via
 
 ## Installation
 
+TEST
 
 #### Swift Package Manager
 
